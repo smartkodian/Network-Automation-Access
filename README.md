@@ -1,0 +1,1 @@
+This is a C sharp windows application can access remote switches and send commands as a bulck configuration. Which will help you to not access every switch one by one to make it easier for network engineer to push one configuration command for more than 100 swithces.
